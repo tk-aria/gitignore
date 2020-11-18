@@ -71,4 +71,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # UnityPackageManager Git Cache.
-/Packages/*.*.*
+/[Pp]ackages/*.*.*
+
